@@ -220,7 +220,8 @@
       }
     }
   },
-  "name": "Haiku Starter",
+  "name": "Haiku Starter for kstec",
+  "projectStatus": "Sandbox",
   "imgPattern": 8,
   "metrics": {
     "probes": [],
@@ -277,11 +278,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 137,
+    "versionNumber": 138,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1652761727163
+    "lastModifiedOn": 1652761729477
   },
   "creationTag": {
     "versionNumber": 0,
