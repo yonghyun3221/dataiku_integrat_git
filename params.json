@@ -222,7 +222,6 @@
     }
   },
   "name": "Haiku Starter for kstec",
-  "projectStatus": "Sandbox",
   "imgPattern": 8,
   "metrics": {
     "probes": [],
@@ -279,11 +278,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 139,
+    "versionNumber": 140,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1652773173761
+    "lastModifiedOn": 1652773619981
   },
   "creationTag": {
     "versionNumber": 0,
@@ -297,7 +296,8 @@
   "tags": [
     "tutorial",
     "downloads",
-    "section:General Topics"
+    "section:General Topics",
+    "duplicated"
   ],
   "customFields": {},
   "checklists": {
